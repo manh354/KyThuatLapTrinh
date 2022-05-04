@@ -1,0 +1,16 @@
+C:\Users\manhp\KTLT\20206156_Bai2_Muc2_c\bin\Debug\net5.0\20206156_Bai2_Muc2_c.exe
+C:\Users\manhp\KTLT\20206156_Bai2_Muc2_c\bin\Debug\net5.0\20206156_Bai2_Muc2_c.deps.json
+C:\Users\manhp\KTLT\20206156_Bai2_Muc2_c\bin\Debug\net5.0\20206156_Bai2_Muc2_c.runtimeconfig.json
+C:\Users\manhp\KTLT\20206156_Bai2_Muc2_c\bin\Debug\net5.0\20206156_Bai2_Muc2_c.runtimeconfig.dev.json
+C:\Users\manhp\KTLT\20206156_Bai2_Muc2_c\bin\Debug\net5.0\20206156_Bai2_Muc2_c.dll
+C:\Users\manhp\KTLT\20206156_Bai2_Muc2_c\bin\Debug\net5.0\ref\20206156_Bai2_Muc2_c.dll
+C:\Users\manhp\KTLT\20206156_Bai2_Muc2_c\bin\Debug\net5.0\20206156_Bai2_Muc2_c.pdb
+C:\Users\manhp\KTLT\20206156_Bai2_Muc2_c\obj\Debug\net5.0\20206156_Bai2_Muc2_c.csproj.AssemblyReference.cache
+C:\Users\manhp\KTLT\20206156_Bai2_Muc2_c\obj\Debug\net5.0\20206156_Bai2_Muc2_c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manhp\KTLT\20206156_Bai2_Muc2_c\obj\Debug\net5.0\20206156_Bai2_Muc2_c.AssemblyInfoInputs.cache
+C:\Users\manhp\KTLT\20206156_Bai2_Muc2_c\obj\Debug\net5.0\20206156_Bai2_Muc2_c.AssemblyInfo.cs
+C:\Users\manhp\KTLT\20206156_Bai2_Muc2_c\obj\Debug\net5.0\20206156_Bai2_Muc2_c.csproj.CoreCompileInputs.cache
+C:\Users\manhp\KTLT\20206156_Bai2_Muc2_c\obj\Debug\net5.0\20206156_Bai2_Muc2_c.dll
+C:\Users\manhp\KTLT\20206156_Bai2_Muc2_c\obj\Debug\net5.0\ref\20206156_Bai2_Muc2_c.dll
+C:\Users\manhp\KTLT\20206156_Bai2_Muc2_c\obj\Debug\net5.0\20206156_Bai2_Muc2_c.pdb
+C:\Users\manhp\KTLT\20206156_Bai2_Muc2_c\obj\Debug\net5.0\20206156_Bai2_Muc2_c.genruntimeconfig.cache
