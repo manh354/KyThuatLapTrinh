@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\manhp\\KTLT\\20206156_Bai2_Muc2_b\\20206156_Bai1_Muc2_b.csproj",
+      "projectUniqueName": "C:\\Users\\manhp\\KTLT\\20206156_Bai1_Muc2_b\\20206156_Bai1_Muc2_b.csproj",
       "projectName": "20206156_Bai1_Muc2_b",
-      "projectPath": "C:\\Users\\manhp\\KTLT\\20206156_Bai2_Muc2_b\\20206156_Bai1_Muc2_b.csproj",
+      "projectPath": "C:\\Users\\manhp\\KTLT\\20206156_Bai1_Muc2_b\\20206156_Bai1_Muc2_b.csproj",
       "packagesPath": "C:\\Users\\manhp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\manhp\\KTLT\\20206156_Bai2_Muc2_b\\obj\\",
+      "outputPath": "C:\\Users\\manhp\\KTLT\\20206156_Bai1_Muc2_b\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manhp\\AppData\\Roaming\\NuGet\\NuGet.Config",
