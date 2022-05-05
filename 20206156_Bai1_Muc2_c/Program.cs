@@ -9,6 +9,7 @@ namespace _20206156_Bai1_Muc2_c
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Phuong trinh bac 2: ax^2 + bx + c = 0");
             Complex a, b, c;
             double a_real, a_img, b_real, b_img, c_real, c_img;
             Console.WriteLine("Nhap vao phan thuc cua a: ");
@@ -66,6 +67,7 @@ namespace _20206156_Bai1_Muc2_c
             }
             Console.WriteLine("Root 1: {0}", x1);
             Console.WriteLine("Root 2: {0}", x2);
+            Console.ReadLine();
             return;
         }
     }
