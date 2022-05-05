@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _20206156_Bai2_Muc2_y4
+namespace _20206156_Bai2_Muc2_d
 {
     class Program
     {
