@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20206156_Bai2_Muc2_y4", "20206156_Bai2_Muc2_y4.csproj", "{E0611451-E6E9-41CF-9F91-06277C37DC28}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20206156_Bai2_Muc2_d", "20206156_Bai2_Muc2_d.csproj", "{E0611451-E6E9-41CF-9F91-06277C37DC28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
