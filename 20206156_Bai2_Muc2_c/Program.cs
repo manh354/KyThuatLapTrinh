@@ -57,7 +57,7 @@ namespace _20206156_Bai2_Muc2_c
                     {
                         for (int j = 0; j < (height - i)*left; j++)
                             Console.Write(' ');
-                        for (int k = 0; k < (2+right)*i + 1 ; k++)
+                        for (int k = 0; k < 1+(left+right)*i ; k++)
                         {
                             Console.Write(patterns[i % patterns.Length][k % (patterns[i % patterns.Length]).Count]);
                         }
@@ -68,25 +68,93 @@ namespace _20206156_Bai2_Muc2_c
                 case 2:
                     Console.WriteLine("Hay nhap vao mot so de chon loai cay: ");
                     Console.WriteLine("De chon cay ben trai, chon 1 \nDe chon cay ben phai, chon 2 \nDe chon cay can xung, chon 3 \nDe chon cay hinh thoi, chon 4");
-                    Console.WriteLine("Nhap vao chieu cao cua cay thong Noel");
                     int m;
-                    while (!Int32.TryParse(Console.ReadLine(), out m))
+                    while(!Int32.TryParse(Console.ReadLine(), out m))
+                    {
+                        Console.WriteLine("So da nhap vao khong hop le, nhap lai: ");
+                    }    
+                    Console.WriteLine("Nhap vao chieu cao cua cay thong Noel");
+                    int o;
+                    while (!Int32.TryParse(Console.ReadLine(), out o))
                     {
                         Console.WriteLine("So da nhap vao khong hop le, nhap lai: ");
                     }
-                    for (int i = 0; i < m; i++)
+                    switch (m)
                     {
-                        for (int j = 0; j < m - i; j++)
-                            Console.Write(' ');
-                        Console.Write('*');
-                        for (int k = 0; k < 2 * i; k++)
-                            Console.Write('*');
-                        Console.WriteLine();
+                        case 1:
+                            for (int i = 0; i < o; i++)
+                            {
+                                Console.Write('*');
+                                for (int k = 0; k < 2 * i; k++)
+                                    Console.Write('*');
+                                Console.WriteLine();
+                            }
+                            for (int j = 0; j < o; j++)
+                                Console.Write(' ');
+                            Console.Write('|');
+                            Console.Read();
+                            break;
+                        case 2:
+                            for (int i = 0; i < o; i++)
+                            {
+                                for (int j = 0; j < o - i; j++)
+                                    Console.Write(' ');
+                                Console.Write('*');
+                                for (int k = 0; k < i; k++)
+                                    Console.Write('*');
+                                Console.WriteLine();
+                            }
+                            for (int j = 0; j < o; j++)
+                                Console.Write(' ');
+                            Console.Write('|');
+                            Console.Read();
+                            break;
+                        case 3:
+                            for (int i = 0; i < o; i++)
+                            {
+                                for (int j = 0; j < o - i; j++)
+                                    Console.Write(' ');
+                                Console.Write('*');
+                                for (int k = 0; k < 2 * i; k++)
+                                    Console.Write('*');
+                                Console.WriteLine();
+                            }
+                            for (int j = 0; j < o; j++)
+                                Console.Write(' ');
+                            Console.Write('|');
+                            Console.Read();
+                            break;
+                        case 4:
+                            for (int i = 0; i < o; i++)
+                            {
+                                for (int j = 0; j < o - i; j++)
+                                    Console.Write(' ');
+                                Console.Write('*');
+                                for (int k = 0; k < 2 * i; k++)
+                                    Console.Write('*');
+                                Console.WriteLine();
+                            }
+                            for (int j = 0; j < o; j++)
+                                Console.Write(' ');
+                            for (int i = o; i > 0; i--)
+                            {
+                                for (int j = 0; j < o - i; j++)
+                                    Console.Write(' ');
+                                Console.Write('*');
+                                for (int k = 0; k < 2 * i; k++)
+                                    Console.Write('*');
+                                Console.WriteLine();
+                            }
+                            for (int j = 0; j < o; j++)
+                                Console.Write(' ');
+                            Console.Write('|');
+                            Console.Read();
+                            break;
+                        default:
+                            break;
                     }
-                    for (int j = 0; j < m; j++)
-                        Console.Write(' ');
-                    Console.Write('|');
-                    Console.Read();
+                        
+                    
                     break;
             }
         }
